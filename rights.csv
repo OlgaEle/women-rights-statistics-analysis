@@ -1,0 +1,271 @@
+Time,CountryName,CountryCode,Passport,Live,Household,Job,Divorce,Business,BankAc,Contract,TravelH,TravelC,WorkN,JobDan,JobInd,Remarry
+2021,Afghanistan,AFG,0,1,1,1,0,1,1,0,1,0,0,0,0,0
+2021,Albania,ALB,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Algeria,DZA,1,1,1,1,0,1,1,0,0,1,0,0,1,0
+2021,American Samoa,ASM,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Andorra,AND,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Angola,AGO,1,1,1,1,1,1,1,1,1,1,1,0,0,1
+2021,Antigua and Barbuda,ATG,0,1,1,1,1,1,1,0,1,1,1,1,1,1
+2021,Argentina,ARG,1,1,1,1,1,1,1,0,1,1,1,0,0,1
+2021,Armenia,ARM,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2021,Aruba,ABW,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Australia,AUS,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Austria,AUT,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Azerbaijan,AZE,1,1,1,1,1,1,1,1,1,1,0,0,0,1
+2021,"Bahamas, The",BHS,1,1,1,1,0,1,1,0,1,1,1,1,1,1
+2021,Bahrain,BHR,0,1,1,0,0,1,1,1,1,0,1,1,1,0
+2021,Bangladesh,BGD,1,1,1,1,0,1,1,0,1,1,1,0,0,0
+2021,Barbados,BRB,1,1,1,1,1,1,1,0,0,1,1,1,0,1
+2021,Belarus,BLR,1,1,1,1,1,1,1,0,1,1,1,0,0,1
+2021,Belgium,BEL,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Belize,BLZ,1,1,1,1,1,1,1,0,0,1,1,1,0,1
+2021,Benin,BEN,0,1,1,1,1,1,1,0,1,1,1,0,1,0
+2021,Bermuda,BMU,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Bhutan,BTN,1,1,1,1,0,1,0,0,1,1,1,1,1,1
+2021,Bolivia,BOL,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Bosnia and Herzegovina,BIH,1,1,1,1,1,1,1,1,1,1,0,1,0,1
+2021,Botswana,BWA,1,1,1,1,1,1,1,0,0,1,1,1,1,1
+2021,Brazil,BRA,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2021,British Virgin Islands,VGB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Brunei Darussalam,BRN,0,1,1,1,0,1,1,0,1,0,1,1,1,0
+2021,Bulgaria,BGR,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Burkina Faso,BFA,0,1,1,1,1,1,1,1,1,1,1,0,0,0
+2021,Burundi,BDI,1,1,0,1,1,1,1,0,1,1,1,1,1,0
+2021,Cabo Verde,CPV,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Cambodia,KHM,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+2021,Cameroon,CMR,0,1,0,0,1,1,1,0,0,1,1,0,0,0
+2021,Canada,CAN,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Cayman Islands,CYM,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Central African Republic,CAF,0,1,0,1,1,1,1,0,1,1,1,0,0,1
+2021,Chad,TCD,0,1,0,0,1,1,1,0,1,1,1,0,0,0
+2021,Channel Islands,CHI,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Chile,CHL,1,1,0,1,1,1,1,0,1,1,1,1,1,1
+2021,China,CHN,1,1,1,1,1,1,1,0,1,1,1,0,0,1
+2021,Colombia,COL,1,1,1,1,1,1,1,0,1,1,1,1,0,1
+2021,Comoros,COM,0,1,0,0,0,1,1,0,1,1,1,1,1,0
+2021,"Congo, Dem. Rep.",COD,1,1,0,1,1,1,1,1,1,1,1,0,1,0
+2021,"Congo, Rep.",COG,0,1,0,1,1,1,1,0,0,1,1,0,0,0
+2021,Costa Rica,CRI,1,1,1,1,1,1,1,0,1,1,1,0,1,1
+2021,Cote d'Ivoire,CIV,1,1,1,1,1,1,1,0,1,1,1,0,0,0
+2021,Croatia,HRV,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Cuba,CUB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Curacao,CUW,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Cyprus,CYP,1,1,1,1,1,1,1,1,1,1,1,1,0,1
+2021,Czech Republic,CZE,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Denmark,DNK,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Djibouti,DJI,1,1,0,1,0,1,1,1,1,1,1,0,0,0
+2021,Dominica,DMA,1,1,1,1,1,1,1,0,0,1,1,1,0,1
+2021,Dominican Republic,DOM,1,1,1,1,0,1,1,1,1,1,1,1,1,1
+2021,Ecuador,ECU,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2021,"Egypt, Arab Rep.",EGY,1,1,0,0,0,1,1,1,0,0,0,0,0,0
+2021,El Salvador,SLV,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+2021,Equatorial Guinea,GNQ,0,1,1,0,0,0,0,0,1,1,1,1,1,0
+2021,Eritrea,ERI,1,1,1,1,1,1,1,0,1,1,1,1,1,0
+2021,Estonia,EST,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Eswatini,SWZ,1,1,0,0,0,0,0,0,1,1,1,1,0,0
+2021,Ethiopia,ETH,1,1,1,1,1,1,1,0,1,1,1,0,0,0
+2021,Faroe Islands,FRO,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Fiji,FJI,1,1,1,1,1,1,1,0,1,1,1,1,0,1
+2021,Finland,FIN,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,France,FRA,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,French Polynesia,PYF,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Gabon,GAB,1,1,1,1,1,1,1,1,0,1,1,0,0,0
+2021,"Gambia, The",GMB,1,1,1,1,0,1,1,0,1,1,1,1,1,0
+2021,Georgia,GEO,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Germany,DEU,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Ghana,GHA,1,1,1,1,1,1,1,0,1,1,1,1,0,1
+2021,Gibraltar,GIB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Greece,GRC,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Greenland,GRL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Grenada,GRD,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2021,Guam,GUM,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Guatemala,GTM,1,1,1,1,0,1,1,0,1,1,1,0,1,1
+2021,Guinea,GIN,1,1,1,1,1,1,1,1,1,1,1,0,0,0
+2021,Guinea-Bissau,GNB,0,1,0,0,1,1,0,0,1,1,0,0,0,0
+2021,Guyana,GUY,1,1,1,1,0,1,1,1,0,1,1,1,1,1
+2021,Haiti,HTI,0,1,1,1,0,1,1,0,0,1,1,1,1,0
+2021,Honduras,HND,1,1,1,1,1,1,1,1,1,1,1,0,1,0
+2021,"Hong Kong SAR, China",HKG,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Hungary,HUN,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Iceland,ISL,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,India,IND,1,1,1,1,1,1,1,0,1,1,0,1,0,1
+2021,Indonesia,IDN,1,1,0,1,0,1,1,0,1,1,1,1,1,0
+2021,"Iran, Islamic Rep.",IRN,0,0,0,0,0,1,1,0,0,0,1,0,1,0
+2021,Iraq,IRQ,0,0,0,1,0,1,1,0,1,0,0,0,1,0
+2021,Ireland,IRL,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Isle of Man,IMN,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Israel,ISR,1,1,1,1,0,1,1,1,1,1,1,0,0,0
+2021,Italy,ITA,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+2021,Jamaica,JAM,1,1,1,1,1,1,1,0,1,1,1,1,0,1
+2021,Japan,JPN,1,1,1,1,1,1,1,0,1,1,1,0,0,0
+2021,Jordan,JOR,0,0,0,0,0,1,1,1,1,0,1,1,0,0
+2021,Kazakhstan,KAZ,1,1,1,1,1,1,1,0,1,1,1,0,0,1
+2021,Kenya,KEN,1,1,1,1,1,1,0,0,1,1,1,1,1,1
+2021,Kiribati,KIR,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2021,"Korea, Dem. People's Rep.",PRK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,"Korea, Rep.",KOR,1,1,1,1,1,1,1,0,1,1,1,0,0,1
+2021,Kosovo,XKX,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Kuwait,KWT,0,1,1,0,0,1,1,0,1,0,0,0,0,0
+2021,Kyrgyz Republic,KGZ,1,1,1,1,1,1,1,1,1,1,1,0,0,1
+2021,Lao PDR,LAO,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Latvia,LVA,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Lebanon,LBN,1,1,1,1,0,1,1,0,1,1,1,1,0,0
+2021,Lesotho,LSO,1,1,1,1,1,1,1,0,1,1,1,1,0,1
+2021,Liberia,LBR,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2021,Libya,LBY,1,1,0,1,0,1,1,0,0,1,1,0,1,0
+2021,Liechtenstein,LIE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Lithuania,LTU,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Luxembourg,LUX,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,"Macao SAR, China",MAC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Madagascar,MDG,1,1,0,1,1,1,1,0,0,1,1,0,0,1
+2021,Malawi,MWI,0,1,1,1,1,1,1,0,0,1,1,1,1,1
+2021,Malaysia,MYS,0,1,1,1,0,1,1,0,1,0,1,1,0,0
+2021,Maldives,MDV,1,1,1,1,0,1,1,1,1,1,1,1,1,0
+2021,Mali,MLI,0,1,0,1,1,1,1,0,0,1,1,0,0,0
+2021,Malta,MLT,1,1,1,1,1,1,1,1,1,1,1,1,0,1
+2021,Marshall Islands,MHL,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Mauritania,MRT,1,1,0,0,0,1,1,0,1,1,1,0,0,0
+2021,Mauritius,MUS,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+2021,Mexico,MEX,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,"Micronesia, Fed. Sts.",FSM,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2021,Moldova,MDA,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Monaco,MCO,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Mongolia,MNG,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Montenegro,MNE,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+2021,Morocco,MAR,1,1,1,1,0,1,1,1,1,1,1,0,0,0
+2021,Mozambique,MOZ,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+2021,Myanmar,MMR,1,1,1,1,1,1,1,0,0,1,1,1,0,1
+2021,Namibia,NAM,1,1,1,1,1,1,1,0,0,1,1,1,1,1
+2021,Nauru,NRU,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Nepal,NPL,0,1,1,1,1,1,1,0,1,1,1,1,1,1
+2021,Netherlands,NLD,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,New Caledonia,NCL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,New Zealand,NZL,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Nicaragua,NIC,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Niger,NER,0,1,0,0,0,1,1,0,1,1,1,0,1,0
+2021,Nigeria,NGA,0,1,1,1,1,1,1,0,0,1,1,1,0,1
+2021,North Macedonia,MKD,1,1,1,1,1,1,1,1,1,1,1,1,0,1
+2021,Northern Mariana Islands,MNP,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Norway,NOR,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2021,Oman,OMN,0,0,0,1,0,1,1,0,1,0,0,0,1,0
+2021,Pakistan,PAK,1,1,1,1,0,1,0,0,0,1,1,1,0,0
+2021,Palau,PLW,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2021,Panama,PAN,1,1,1,1,1,1,1,0,1,1,1,0,1,0
+2021,Papua New Guinea,PNG,1,1,1,1,1,1,1,0,0,1,1,0,0,1
+2021,Paraguay,PRY,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Peru,PER,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+2021,Philippines,PHL,1,1,1,1,0,1,1,1,0,1,1,1,1,0
+2021,Poland,POL,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Portugal,PRT,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Puerto Rico,PRI,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Qatar,QAT,0,0,1,0,0,1,1,0,1,0,1,0,1,0
+2021,Romania,ROU,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Russian Federation,RUS,1,1,1,1,1,1,1,0,1,1,1,0,0,1
+2021,Rwanda,RWA,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2021,Samoa,WSM,1,1,1,1,1,1,1,0,0,1,1,1,1,1
+2021,San Marino,SMR,1,1,1,1,1,1,1,0,1,1,1,1,1,0
+2021,Sao Tome and Principe,STP,1,1,1,1,1,1,1,0,1,1,1,1,1,0
+2021,Saudi Arabia,SAU,1,1,1,1,0,1,1,1,1,1,1,1,1,0
+2021,Senegal,SEN,0,1,0,1,1,1,1,0,1,1,1,0,0,0
+2021,Serbia,SRB,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Seychelles,SYC,1,1,1,1,1,1,1,0,0,1,1,1,1,1
+2021,Sierra Leone,SLE,1,1,1,1,1,1,1,1,1,1,1,1,0,1
+2021,Singapore,SGP,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2021,Sint Maarten (Dutch part),SXM,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Slovak Republic,SVK,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Slovenia,SVN,1,1,1,1,1,1,1,1,1,1,1,1,0,1
+2021,Solomon Islands,SLB,1,1,1,1,1,1,1,0,0,1,0,1,0,1
+2021,Somalia,SOM,0,1,0,1,0,1,1,0,1,1,0,1,0,0
+2021,South Africa,ZAF,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,South Sudan,SSD,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2021,Spain,ESP,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Sri Lanka,LKA,1,1,1,1,1,1,1,0,1,1,0,1,0,1
+2021,St. Kitts and Nevis,KNA,1,1,1,1,1,1,1,0,1,1,1,1,0,1
+2021,St. Lucia,LCA,1,1,1,1,0,1,1,0,0,1,1,1,1,1
+2021,St. Martin (French part),MAF,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,St. Vincent and the Grenadines,VCT,1,1,1,1,1,1,1,0,0,1,1,1,0,1
+2021,Sudan,SDN,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+2021,Suriname,SUR,1,1,1,1,1,1,0,0,1,1,1,1,1,0
+2021,Sweden,SWE,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Switzerland,CHE,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2021,Syrian Arab Republic,SYR,0,0,1,0,0,1,1,0,1,1,0,0,0,0
+2021,Tajikistan,TJK,1,1,1,1,1,1,1,1,1,1,1,0,0,1
+2021,Tanzania,TZA,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2021,Thailand,THA,1,1,1,1,1,1,1,0,1,1,1,1,0,0
+2021,Timor-Leste,TLS,1,1,1,1,1,1,1,0,1,1,1,1,1,0
+2021,Togo,TGO,1,1,1,1,1,1,1,0,1,1,1,1,1,0
+2021,Tonga,TON,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2021,Trinidad and Tobago,TTO,1,1,1,1,0,1,1,1,0,1,1,1,1,1
+2021,Tunisia,TUN,1,1,0,1,1,1,1,0,1,1,0,1,0,0
+2021,Turkey,TUR,1,1,1,1,1,1,1,0,1,1,1,1,0,0
+2021,Turkmenistan,TKM,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Turks and Caicos Islands,TCA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Tuvalu,TUV,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Uganda,UGA,0,1,1,1,0,1,1,0,1,1,1,1,1,1
+2021,Ukraine,UKR,1,1,1,1,1,1,1,1,1,1,0,0,0,1
+2021,United Arab Emirates,ARE,1,1,1,1,0,1,1,1,1,1,1,1,1,0
+2021,United Kingdom,GBR,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,United States,USA,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Uruguay,URY,1,1,1,1,1,1,1,0,1,1,1,1,0,0
+2021,Uzbekistan,UZB,1,1,1,1,1,1,1,1,1,1,1,0,0,1
+2021,Vanuatu,VUT,0,1,0,1,1,1,1,1,1,1,0,1,1,1
+2021,"Venezuela, RB",VEN,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2021,Vietnam,VNM,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2021,Virgin Islands (U.S.),VIR,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,West Bank and Gaza,PSE,0,0,1,0,0,1,1,0,1,0,0,0,0,0
+2021,"Yemen, Rep.",YEM,0,1,0,0,0,1,1,0,0,0,0,0,1,0
+2021,Zambia,ZMB,1,1,1,1,0,1,1,1,0,1,1,1,1,1
+2021,Zimbabwe,ZWE,1,1,1,1,0,1,1,1,1,1,1,1,1,1
+2021,Africa Eastern and Southern,AFE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Africa Western and Central,AFW,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Arab World,ARB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Caribbean small states,CSS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Central Europe and the Baltics,CEB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Early-demographic dividend,EAR,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,East Asia & Pacific,EAS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,East Asia & Pacific (excluding high income),EAP,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,East Asia & Pacific (IDA & IBRD),TEA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Euro area,EMU,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Europe & Central Asia,ECS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Europe & Central Asia (excluding high income),ECA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Europe & Central Asia (IDA & IBRD),TEC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,European Union,EUU,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Fragile and conflict affected situations,FCS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Heavily indebted poor countries (HIPC),HPC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,High income,HIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,IBRD only,IBD,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,IDA & IBRD total,IBT,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,IDA blend,IDB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,IDA only,IDX,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,IDA total,IDA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Late-demographic dividend,LTE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Latin America & Caribbean,LCN,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Latin America & Caribbean (excluding high income),LAC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Latin America & Caribbean (IDA & IBRD),TLA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Least developed countries: UN classification,LDC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Low & middle income,LMY,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Low income,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Lower middle income,LMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Middle East & North Africa,MEA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Middle East & North Africa (excluding high income),MNA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Middle East & North Africa (IDA & IBRD),TMN,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Middle income,MIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,North America,NAC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,OECD members,OED,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Other small states,OSS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Pacific island small states,PSS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Post-demographic dividend,PST,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Pre-demographic dividend,PRE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Small states,SST,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,South Asia,SAS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,South Asia (IDA & IBRD),TSA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Sub-Saharan Africa,SSF,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Sub-Saharan Africa (excluding high income),SSA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Sub-Saharan Africa (IDA & IBRD),TSS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,Upper middle income,UMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,World,WLD,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Data from database: Gender Statistics,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Last Updated: 03/01/2022,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
