@@ -40,11 +40,11 @@
 
 </br></br>
 
-😡Women have the **less** rights in the way they can sign a contract. </br></br>
+😡Women have **fewer** rights in the way they can sign a contract. </br></br>
 
 ![image](https://user-images.githubusercontent.com/101463516/165981379-1e667122-7b11-4919-948d-4e637d847cf0.png)
 
-🥳Women have the **more** rights in the way they can register a business. </br></br>
+🥳Women have **more** rights in the way they can register a business. </br></br>
 
 ![image](https://user-images.githubusercontent.com/101463516/165981813-9fca93ac-e901-4395-8c47-73e19e9c4cb0.png)
 
