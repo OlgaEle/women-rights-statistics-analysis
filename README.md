@@ -60,5 +60,8 @@ Which country? **Sudan** </br></br>
 2021 </br></br>
 
 📚**Data:** 
-<a href="https://www.worldbank.org/en/home" target="_blank">World Bank</a>
+<a href="https://www.worldbank.org/en/home" target="_blank">World Bank</a> </br></br>
+
+✏️**My article:** 
+<a href="https://medium.com/code-like-a-girl/statistical-analysis-for-women-rights-in-python-19db107f85a6" target="_blank">Statistical Analysis for Women Rights in Python</a>
 
